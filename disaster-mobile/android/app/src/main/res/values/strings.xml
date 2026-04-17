@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Power Rangers - Disaster Response</string>
+    <string name="title_activity_main">Power Rangers - Disaster Response</string>
+    <string name="package_name">com.powerrangers.disaster</string>
+    <string name="custom_url_scheme">com.powerrangers.disaster</string>
+</resources>
